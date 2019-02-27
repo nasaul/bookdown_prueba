@@ -1,0 +1,4 @@
+book_filename: "prueba_bookdown"
+chapter_name: "Chapter "
+repo: https://github.com/nasaul/prueba_bookdown
+new_session: yes
